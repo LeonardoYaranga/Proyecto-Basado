@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pyswip
+httpx
+pydantic
